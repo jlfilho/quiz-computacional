@@ -36,6 +36,16 @@ python -m http.server 8765 --bind 127.0.0.1
 
 Depois, abra [http://127.0.0.1:8765](http://127.0.0.1:8765) no navegador.
 
+## Publicação no GitHub Pages
+
+O repositório inclui um workflow que executa os testes e publica automaticamente a versão da branch
+`main` no GitHub Pages.
+
+Na primeira publicação, abra **Settings → Pages** no repositório do GitHub e, em **Build and
+deployment**, selecione **GitHub Actions** como fonte. Em seguida, envie este projeto para a branch
+`main`. A URL pública será exibida na execução do workflow **Publicar no GitHub Pages**, na aba
+**Actions**.
+
 ## Testes
 
 O projeto usa o executor nativo de testes do Node.js, sem dependências externas.
