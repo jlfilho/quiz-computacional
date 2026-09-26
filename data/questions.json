@@ -1,0 +1,62 @@
+[
+  {
+    "id": "q1",
+    "statement": "Qual componente é responsável por executar instruções em um computador?",
+    "alternatives": ["Memória RAM", "Processador", "Teclado", "Monitor"],
+    "correctIndex": 1
+  },
+  {
+    "id": "q2",
+    "statement": "Qual destes itens é um dispositivo de entrada?",
+    "alternatives": ["Impressora", "Caixa de som", "Teclado", "Projetor"],
+    "correctIndex": 2
+  },
+  {
+    "id": "q3",
+    "statement": "Qual programa é normalmente usado para acessar páginas na internet?",
+    "alternatives": ["Navegador", "Antivírus", "Calculadora", "Editor de texto"],
+    "correctIndex": 0
+  },
+  {
+    "id": "q4",
+    "statement": "O que significa a sigla CPU?",
+    "alternatives": ["Central de Programas Úteis", "Controle de Processos Unidos", "Unidade Central de Processamento", "Conexão Pública Universal"],
+    "correctIndex": 2
+  },
+  {
+    "id": "q5",
+    "statement": "Qual tipo de arquivo é mais associado a uma imagem?",
+    "alternatives": [".jpg", ".mp3", ".txt", ".exe"],
+    "correctIndex": 0
+  },
+  {
+    "id": "q6",
+    "statement": "Qual destes é um sistema operacional?",
+    "alternatives": ["Linux", "Google", "HTML", "Pendrive"],
+    "correctIndex": 0
+  },
+  {
+    "id": "q7",
+    "statement": "Para que serve a memória RAM?",
+    "alternatives": ["Armazenar dados temporários em uso", "Imprimir documentos", "Exibir imagens", "Conectar o teclado"],
+    "correctIndex": 0
+  },
+  {
+    "id": "q8",
+    "statement": "Qual símbolo é usado em um endereço de e-mail?",
+    "alternatives": ["#", "@", "&", "%"],
+    "correctIndex": 1
+  },
+  {
+    "id": "q9",
+    "statement": "Qual prática ajuda a proteger uma conta online?",
+    "alternatives": ["Usar a mesma senha em todos os sites", "Compartilhar a senha", "Criar uma senha forte", "Desativar atualizações"],
+    "correctIndex": 2
+  },
+  {
+    "id": "q10",
+    "statement": "Qual unidade é usada para medir o tamanho de arquivos digitais?",
+    "alternatives": ["Byte", "Volt", "Metro", "Segundo"],
+    "correctIndex": 0
+  }
+]
